@@ -1,3 +1,14 @@
+a.nav-link.sidebarlink {
+  color: #999c99;
+}
 
+a:hover {
+  background-color: orange;
+  text-decoration: none;
+}
+
+a.navbar-brand:hover {
+  background-color: transparent;
+}
 
 /*# sourceMappingURL=StyleSheet.css.map */
