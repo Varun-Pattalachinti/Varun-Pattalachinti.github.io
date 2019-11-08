@@ -1,4 +1,4 @@
-a.nav-link.sidebarlink {
+a .nav-link.sidebarlink {
   color: #999c99;
 }
 
@@ -9,6 +9,14 @@ a:hover {
 
 a.navbar-brand:hover {
   background-color: transparent;
+}
+
+.clip-text {
+  background: url(https://media.giphy.com/media/6wpHEQNjkd74Q/giphy.gif);
+  background-size: cover;
+  background-position: center;
+  -webkit-background-clip: text;
+  color: transparent;
 }
 
 /*# sourceMappingURL=StyleSheet.css.map */
